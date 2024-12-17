@@ -1,2 +1,3 @@
 # Estudos de Kotlin
-Repositório para as anotações e exercícios de Kotlin voltado para o estudo de desenvolvimento mobile
+Repositório para as anotações e exercícios de Kotlin
+Foco do apredizagem: Kotlin para de desenvolvimento mobile
